@@ -1,0 +1,132 @@
+#sec1 {
+  background-color: #33CCCC;
+}
+
+h1 {
+  font-family: Faster One;
+}
+
+.container {
+padding: 7% 15%;
+}
+
+nav {
+  margin-bottom: 15px;
+}
+
+#img1 {
+  margin-bottom: 20px;
+}
+
+#img2 {
+  margin-bottom: 40px;
+}
+
+.col-lg-4 {
+  border: 2px dashed green;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+#par1 {
+  margin-top: 35px;
+  margin-left: 5px;
+  font-family: Ubuntu;
+  font-size: 24px;
+}
+
+#button11 {
+  margin-top: 20px;
+}
+
+#container111 {
+  border: 2px dashed green;
+  padding-bottom: 40px;
+  padding-top: 30px;
+  margin-bottom: 30px;
+}
+
+#h22 {
+  margin-top: 10px;
+  margin-bottom: 40px;
+}
+
+#parr44 {
+  margin-top: 20px;
+}
+
+#rowww {
+  padding-top: 40px;
+}
+
+#but02 {
+  color: inherit;
+  text-decoration: none;
+}
+
+#section01 {
+  background-color: #33CCCC
+}
+
+#coller2 {
+  border: 2px dashed green;
+  border-bottom: none;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+#coller3 {
+  border: 2px dashed green;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+#buttoner {
+  position: fixed;
+  bottom: 5px;
+  left: 20px;
+}
+
+#gobacker {
+  color: inherit;
+  text-decoration: none;
+}
+
+#container112 {
+  margin-top: 30px;
+  margin-bottom: 130px;
+  border: 2px dashed green;
+  padding-bottom: 30px;
+  padding-top: 30px;
+}
+
+#cont22 {
+  padding-top: 10px;
+  margin-bottom: 200px;
+}
+
+#nwe1 {
+  padding-top: 10px;
+}
+
+#centman {
+  margin-bottom: 30px;
+}
+
+#blanker1 {
+  margin-top: 100px;
+}
+
+#orderer {
+  border: 2px dashed green;
+  padding: 30px 30px;
+}
+
+#manmn {
+  padding: 100px 100px;
+}
+
+#ender {
+  font-size: 70px;
+  color: green;
+}
